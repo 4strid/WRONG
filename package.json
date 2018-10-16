@@ -1,0 +1,25 @@
+{
+  "name": "wrong",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cutejs/WRONG.git"
+  },
+  "author": "Peter Fesz-Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cutejs/WRONG/issues"
+  },
+  "homepage": "https://github.com/cutejs/WRONG#readme",
+  "dependencies": {
+    "diet-ecstatic": "^0.1.0"
+  },
+  "devDependencies": {
+    "diet": "^0.16.0"
+  }
+}
